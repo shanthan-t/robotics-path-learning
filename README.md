@@ -1,11 +1,11 @@
-Robotics Path Planning with a Genetic Algorithm
-
-Overview
-
+**Robotics Path Planning with a Genetic Algorithm
+**
+**Overview
+**
 This project uses a genetic algorithm to find an optimal path for a robot. The path must navigate around obstacles to get from a start point to an end point.
 
-How It Works (In a Nutshell)
-The program "evolves" a solution over many generations, much like a natural process.
+**How It Works (In a Nutshell)
+**The program **"evolves"** a solution over many generations, much like a natural process.
 
 Starts with Random Paths: The algorithm begins with a "population" of random, unoptimized paths.
 
@@ -18,14 +18,14 @@ Creates New Paths: New paths are created by combining segments from the parent p
 Repeats: This process is repeated over hundreds of generations until a highly optimized, obstacle-free path is found.
 
 
-How to Run
-
+**How to Run
+**
 This project requires Python along with numpy and matplotlib.
 
-Install Libraries:
-pip install numpy matplotlib
+**Install Libraries:
+**pip install numpy matplotlib
 
-Run the Script:
-python main.py
+**Run the Script:
+**python main.py
 
-Interact: A window will pop up. Click on the grid to set your start and end points, and the program will automatically find the best path.
+**Interact:** A window will pop up. Click on the grid to set your start and end points, and the program will automatically find the best path.
