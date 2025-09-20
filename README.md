@@ -17,7 +17,7 @@ The program **"evolves"** a solution over many generations, much like a natural 
 
 **Repeats:** This process is repeated over hundreds of generations until a highly optimized, obstacle-free path is found.
 
-**How to Run**
+**How to Run**: 
 This project requires Python along with numpy and matplotlib.
 
 **Install Libraries:**
