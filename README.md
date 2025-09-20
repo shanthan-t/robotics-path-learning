@@ -4,7 +4,7 @@
 
 This project uses a genetic algorithm to find an optimal path for a robot. The path must navigate around obstacles to get from a start point to an end point.
 
-**How It Works (In a Nutshell)**
+**How It Works (In a Nutshell)**: 
 The program **"evolves"** a solution over many generations, much like a natural process.
 
 **Starts with Random Paths:** The algorithm begins with a "population" of random, unoptimized paths.
